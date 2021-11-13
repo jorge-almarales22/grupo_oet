@@ -1,0 +1,13 @@
+.errors {
+  border-color: #f44336;
+  background-color: #ffcdd2;
+  color: #7f0000;
+  padding: 20px 40px;
+  border-radius: 5px;
+  display: none;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.block {
+  display: block;
+}
